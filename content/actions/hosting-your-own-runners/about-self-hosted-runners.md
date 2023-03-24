@@ -110,6 +110,7 @@ The following operating systems are supported for the self-hosted runner applica
 - Windows 10 64-bit
 - Windows Server 2012 R2 64-bit
 - Windows Server 2019 64-bit
+- Windows Server 2022 64-bit
 
 ### macOS
 
